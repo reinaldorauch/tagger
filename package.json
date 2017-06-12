@@ -1,0 +1,26 @@
+{
+  "name": "tagger",
+  "version": "1.0.0",
+  "description": "Command-line node.js based tool to tag multiple audio files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/reinaldorauch/tagger.git"
+  },
+  "keywords": [
+    "cli",
+    "audio",
+    "files",
+    "multiple",
+    "music"
+  ],
+  "author": "Reinaldo A. C. Rauch <reinaldorauch@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/reinaldorauch/tagger/issues"
+  },
+  "homepage": "https://github.com/reinaldorauch/tagger#readme"
+}
